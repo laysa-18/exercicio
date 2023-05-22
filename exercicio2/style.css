@@ -1,0 +1,10 @@
+.principal{
+    margin: auto;
+    width: 500px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+    padding: 5px;
+    background-color:cornflowerblue;
+}
